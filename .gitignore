@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.joblib
+.venv/
+*.aux
+*.log
+*.out
+!resultados/*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
